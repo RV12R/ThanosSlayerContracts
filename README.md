@@ -1,3 +1,9 @@
+# QUICKNODE 
+Contract deployed to:  
+* 0x88Abf4f4eA71551e00782797342bCc088c254B0d [Second]
+* 0xF3acEeED4C87DB3E19f5ED5561c2c604eaA64086
+                       
+
 # Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
