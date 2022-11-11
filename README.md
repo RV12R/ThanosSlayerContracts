@@ -1,8 +1,6 @@
 # QUICKNODE 
 Contract deployed to:  
-* 0x88Abf4f4eA71551e00782797342bCc088c254B0d [Second]
-* 0xF3acEeED4C87DB3E19f5ED5561c2c604eaA64086
-                       
+* [0x88Abf4f4eA71551e00782797342bCc088c254B0d](https://goerli.etherscan.io/address/0x88Abf4f4eA71551e00782797342bCc088c254B0d)                       
 
 # Basic Sample Hardhat Project
 
