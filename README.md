@@ -1,6 +1,9 @@
 # Using Quicknode as node provider  
 Contract deployed to:  
-* [0x88Abf4f4eA71551e00782797342bCc088c254B0d](https://goerli.etherscan.io/address/0x88Abf4f4eA71551e00782797342bCc088c254B0d)                       
+* [0x88Abf4f4eA71551e00782797342bCc088c254B0d](https://goerli.etherscan.io/address/0x88Abf4f4eA71551e00782797342bCc088c254B0d)  
+
+# [Play this game](https://thanos-slayer.rahulav.repl.co/)
+
 
 # Basic Sample Hardhat Project
 
